@@ -1,0 +1,7 @@
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\DeserializConsolApp\bin\Debug\DeserializConsolApp.exe.config
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\DeserializConsolApp\bin\Debug\DeserializConsolApp.exe
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\DeserializConsolApp\bin\Debug\DeserializConsolApp.pdb
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\DeserializConsolApp\bin\Debug\ClassLib.dll
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\DeserializConsolApp\bin\Debug\ClassLib.pdb
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\DeserializConsolApp\obj\Debug\DeserializConsolApp.exe
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\DeserializConsolApp\obj\Debug\DeserializConsolApp.pdb

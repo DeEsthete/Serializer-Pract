@@ -1,0 +1,8 @@
+c:\users\павлове\documents\visual studio 2017\Projects\Serialization-Pract\Serialization-Pract\bin\Debug\Serialization-Pract.exe.config
+c:\users\павлове\documents\visual studio 2017\Projects\Serialization-Pract\Serialization-Pract\bin\Debug\Serialization-Pract.exe
+c:\users\павлове\documents\visual studio 2017\Projects\Serialization-Pract\Serialization-Pract\bin\Debug\Serialization-Pract.pdb
+c:\users\павлове\documents\visual studio 2017\Projects\Serialization-Pract\Serialization-Pract\obj\Debug\Serialization-Pract.csprojResolveAssemblyReference.cache
+c:\users\павлове\documents\visual studio 2017\Projects\Serialization-Pract\Serialization-Pract\obj\Debug\Serialization-Pract.exe
+c:\users\павлове\documents\visual studio 2017\Projects\Serialization-Pract\Serialization-Pract\obj\Debug\Serialization-Pract.pdb
+c:\users\павлове\documents\visual studio 2017\Projects\Serialization-Pract\Serialization-Pract\bin\Debug\Newtonsoft.Json.dll
+c:\users\павлове\documents\visual studio 2017\Projects\Serialization-Pract\Serialization-Pract\bin\Debug\Newtonsoft.Json.xml

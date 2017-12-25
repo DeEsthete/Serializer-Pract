@@ -1,0 +1,8 @@
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\SerializConsolApp\bin\Debug\SerializConsolApp.exe.config
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\SerializConsolApp\bin\Debug\SerializConsolApp.exe
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\SerializConsolApp\bin\Debug\SerializConsolApp.pdb
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\SerializConsolApp\bin\Debug\ClassLib.dll
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\SerializConsolApp\bin\Debug\ClassLib.pdb
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\SerializConsolApp\obj\Debug\SerializConsolApp.csprojResolveAssemblyReference.cache
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\SerializConsolApp\obj\Debug\SerializConsolApp.exe
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\SerializConsolApp\obj\Debug\SerializConsolApp.pdb

@@ -1,0 +1,4 @@
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\ПавловЕ\documents\visual studio 2017\Projects\Serialization-Pract\ClassLib\obj\Debug\ClassLib.pdb
