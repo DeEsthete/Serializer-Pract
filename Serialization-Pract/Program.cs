@@ -42,14 +42,22 @@ namespace Serialization_Pract
             Console.WriteLine("SOAP успешно записан!");
 
             #region Json
-            string Json = JsonConvert.SerializeObject(personArray);
-            
-            Person[] newPersonArray = JsonConvert.DeserializeObject<Person[]>(Json);
-            byte[] byteArray = Encoding.UTF8.GetBytes(Json);
-            using (FileStream stream = new FileStream(@"C:\name_of_directory\JsonPerson.json", FileMode.OpenOrCreate))
+            //string Json = JsonConvert.SerializeObject(personArray);
+            JsonSerializer Json = new JsonSerializer();
+            using (StreamWriter fs = new StreamWriter(@"C:\name_of_directory\JsonPerson.txt"))
             {
-                stream.Write(byteArray, 0, byteArray.Length);
+                using (JsonWriter writer = new JsonTextWriter(fs))
+                {
+                    Json.Serialize(writer, personArray);
+                }
             }
+
+            //    Person[] newPersonArray = JsonConvert.DeserializeObject<Person[]>(Json);
+            //byte[] byteArray = Encoding.UTF8.GetBytes(Json);
+            //using (FileStream stream = new FileStream(@"C:\name_of_directory\JsonPerson.json", FileMode.OpenOrCreate))
+            //{
+            //    stream.Write(byteArray, 0, byteArray.Length);
+            //}
             #endregion
             Console.WriteLine("Json упсешно записан!");
         }
